@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onsistr.github.io/sitemap.html.gz
+Sitemap: https://onsistr.github.io/app/sitemap.html.gz
+Sitemap: https://onsistr.github.io/assets/sitemap.html.gz
+Sitemap: https://onsistr.github.io/css/sitemap.html.gz
+Sitemap: https://onsistr.github.io/includes/sitemap.html.gz
+Sitemap: https://onsistr.github.io/item/sitemap.html.gz
+Sitemap: https://onsistr.github.io/src/sitemap.html.gz
